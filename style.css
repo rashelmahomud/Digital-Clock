@@ -1,0 +1,36 @@
+
+.Digital-clock {
+    width: 500px;
+    height: 200px;
+    background: rgb(41, 212, 18);
+    margin: auto;
+    border: 50px solid tomato;
+    border-radius: 10px;
+}
+
+h1#time {
+    width: 302px;
+    height: 111px;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    margin-top: 15px;
+    color:black;
+    
+}
+
+.container {
+    margin-top: 60px;
+    padding: 10px;
+}
+
+
+.small, small {
+    font-size: .875em;
+    position: absolute;
+    margin-top: -82px;
+    margin-left: 310px;
+    font-weight: bold;
+}
+
